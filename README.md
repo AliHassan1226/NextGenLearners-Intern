@@ -1,5 +1,29 @@
 # NextGenLearners-Intern
 
+Task Overview
+This repository contains Week 1 task of NextGen Learners Data Science Internship. The goal was to clean a messy dataset applicants.csv.
+
+Dataset
+Original File: applicants.csv (with missing values, duplicates, inconsistent formats)
+Cleaned File: applicants_cleaned.csv (final analysis-ready data)
+Data Cleaning Steps Performed
+Checked Data: Used df.info(), df.isnull().sum(), df.duplicated()
+Handled Missing Values: Filled/Removed null values in important columns
+Removed Duplicates: Used df.drop_duplicates()
+Standardized Text: Fixed 'Web Dev' to 'Web Development', 'ML' to 'Machine Learning' etc.
+Fixed Data Types: Converted application_date to datetime format
+Trimmed Spaces: Removed extra spaces from text columns
+Tools & Libraries
+Python
+Pandas
+Google Colab / Jupyter Notebook
+How to Run
+Open Google Colab
+Upload applicants.csv
+Run cleaning script
+Output
+Cleaned dataset is saved as applicants_cleaned.csv and uploaded in this repo.
+
 DA on 76 internship applications for NextGen Learners Internship.
 
 Dataset:applicants_cleaned.csv
