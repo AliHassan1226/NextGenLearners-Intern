@@ -41,7 +41,7 @@ This repository contains Week 1 task of NextGen Learners Data Science Internship
 
 Cleaned dataset is saved as applicants_cleaned.csv and uploaded in this repo.
 
-# Week 2 EDA Intern Applicants
+# EDA Intern Applicants
 
 DA on 76 internship applications for NextGen Learners Internship.
 
@@ -54,7 +54,7 @@ Key Insights:
 . Karachi University: 23 apps (30%) - Top
 . Acceptance Rate: 31.5% (23/73)
 
-# Week 3 - SQL Queries for Internship Analysis
+# SQL Queries for Internship Analysis
 This project analyzes internship applicants data using SQL in Google Colab with SQLite and Python.
 
 # Queries Performed
@@ -82,7 +82,7 @@ This project analyzes internship applicants data using SQL in Google Colab with 
 . Matplotlib
 . Google Colab
 
-# Week 4 Capstone - Predicting Internship Selection
+# Capstone - Predicting Internship Selection
 
 Objective: Predict internship selection using applicant data and explain results honestly.
 
